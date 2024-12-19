@@ -1,0 +1,48 @@
+<irplus>
+ <device manufacturer="" model="RGB LED Strip Controller (44 Key)" columns="16" format="WINLIRC_NEC1" one-pulse="742" one-space="1485" zero-pulse="742" zero-space="395" header-pulse="9226" header-space="4290" bits="16" pre-bits="16" scaleRatio="2.0">
+  <button label="&#1044704;" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x3AC5</button>
+  <button label="&#1044702;" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xBA45</button>
+  <button label="&#1044569;" labelSize="12.0" span="4" backgroundColor="FF000000">0xFF 0x827D</button>
+  <button label="&#1045541;" labelSize="12.0" span="4" backgroundColor="FFEF280C">0xFF 0x02FD</button>
+  <button label="R" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFD10000">0xFF 0x1AE5</button>
+  <button label="G" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FF009300">0xFF 0x9A65</button>
+  <button label="B" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FF0000C1">0xFF 0xA25D</button>
+  <button label="W" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFDBDBDB">0xFF 0x22DD</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFEA3A07">0xFF 0x2AD5</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF59B268">0xFF 0xAA55</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF008EE5">0xFF 0x926D</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFED5B93">0xFF 0x12ED</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFE85607">0xFF 0x0AF5</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF0091D6">0xFF 0x8A75</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF7F004C">0xFF 0xB24D</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFED89AF">0xFF 0x32CD</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFEF7F14">0xFF 0x38C7</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF0082A0">0xFF 0xB847</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF0A004F">0xFF 0x7887</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF0099EA">0xFF 0xF807</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFF2E221">0xFF 0x18E7</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF024F60">0xFF 0x9867</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FFEA1656">0xFF 0x58A7</button>
+  <button label="" labelSize="12.0" span="4" backgroundColor="FF11AFED">0xFF 0xD827</button>
+  <button label="&#1044574;" labelSize="12.0" span="4" labelColor="FFFF0000" backgroundColor="FFFFFFFF">0xFF 0x28D7</button>
+  <button label="&#1044574;" labelSize="12.0" span="4" labelColor="FF00FF00" backgroundColor="FFFFFFFF">0xFF 0xA857</button>
+  <button label="&#1044574;" labelSize="12.0" span="4" labelColor="FF0000FF" backgroundColor="FFFFFFFF">0xFF 0x6897</button>
+  <button label="QUICK" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xE817</button>
+  <button label="&#1044550;" labelSize="12.0" span="4" labelColor="FFFF0000" backgroundColor="FFFFFFFF">0xFF 0x08F7</button>
+  <button label="&#1044550;" labelSize="12.0" span="4" labelColor="FF00FF00" backgroundColor="FFFFFFFF">0xFF 0x8877</button>
+  <button label="&#1044550;" labelSize="12.0" span="4" labelColor="FF0000FF" backgroundColor="FFFFFFFF">0xFF 0x48B7</button>
+  <button label="SLOW" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xC837</button>
+  <button label="DIY1" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x30CF</button>
+  <button label="DIY2" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xB04F</button>
+  <button label="DIY3" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x708F</button>
+  <button label="AUTO" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xF00F</button>
+  <button label="DIY4" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x10EF</button>
+  <button label="DIY5" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x906F</button>
+  <button label="DIY6" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x50AF</button>
+  <button label="FLASH" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xD02F</button>
+  <button label="JUMP3" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x20DF</button>
+  <button label="JUMP7" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xA05F</button>
+  <button label="FADE3" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0x609F</button>
+  <button label="FADE7" labelSize="12.0" span="4" labelColor="FF000000" backgroundColor="FFFFFFFF">0xFF 0xE01F</button>
+ </device>
+</irplus>
